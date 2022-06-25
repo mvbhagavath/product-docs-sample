@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "heading": true,
+      "title": "Opstrace Documentation",
+      "routes": [
+        {
+          "title": "Opstrace Introduction",
+          "path": "/docs/sample.md",
+          "readingTime": {
+            "text": "2 min",
+            "minutes": 1.945,
+            "time": 116700,
+            "words": 389
+          }
+        }
+      ]
+    }
+  ]
+}
